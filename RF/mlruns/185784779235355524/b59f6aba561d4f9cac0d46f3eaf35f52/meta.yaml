@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/b59f6aba561d4f9cac0d46f3eaf35f52/artifacts
+end_time: 1737142357144
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: b59f6aba561d4f9cac0d46f3eaf35f52
+run_name: resilient-ox-970
+run_uuid: b59f6aba561d4f9cac0d46f3eaf35f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142355261
+status: 3
+tags: []
+user_id: leandric

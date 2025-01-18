@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/423589ccb2154e71b184123ece661abd/artifacts
+end_time: 1737127589180
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 423589ccb2154e71b184123ece661abd
+run_name: nosy-jay-519
+run_uuid: 423589ccb2154e71b184123ece661abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737127586290
+status: 3
+tags: []
+user_id: leandric

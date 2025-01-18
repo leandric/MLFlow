@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/mlruns/158866122621680297/f9d9c4e4a9fc45b3a049d6c637dcd197/artifacts
+deleted_time: 1737124848557
+end_time: 1737124159815
+entry_point_name: ''
+experiment_id: '158866122621680297'
+lifecycle_stage: deleted
+run_id: f9d9c4e4a9fc45b3a049d6c637dcd197
+run_name: sneaky-bass-188
+run_uuid: f9d9c4e4a9fc45b3a049d6c637dcd197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737124159793
+status: 4
+tags: []
+user_id: leandric

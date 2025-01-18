@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/376185df573d4d19a3df2da8c5dde937/artifacts
+end_time: 1737142359056
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 376185df573d4d19a3df2da8c5dde937
+run_name: gifted-boar-711
+run_uuid: 376185df573d4d19a3df2da8c5dde937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142357147
+status: 3
+tags: []
+user_id: leandric

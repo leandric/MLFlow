@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/mlruns/158866122621680297/1e84356711754b5184d552dbe0352a86/artifacts
+deleted_time: 1737124848557
+end_time: 1737124652711
+entry_point_name: ''
+experiment_id: '158866122621680297'
+lifecycle_stage: deleted
+run_id: 1e84356711754b5184d552dbe0352a86
+run_name: serious-bat-799
+run_uuid: 1e84356711754b5184d552dbe0352a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737124650311
+status: 3
+tags: []
+user_id: leandric

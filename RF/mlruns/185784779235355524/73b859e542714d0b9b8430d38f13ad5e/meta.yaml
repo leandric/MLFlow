@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/73b859e542714d0b9b8430d38f13ad5e/artifacts
+end_time: 1737142355258
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 73b859e542714d0b9b8430d38f13ad5e
+run_name: judicious-calf-820
+run_uuid: 73b859e542714d0b9b8430d38f13ad5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142353416
+status: 3
+tags: []
+user_id: leandric

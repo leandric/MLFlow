@@ -1,0 +1,6 @@
+artifact_location: file:///Users/leandric/Documents/Git/MLFlow/mlruns/158866122621680297
+creation_time: 1737086308932
+experiment_id: '158866122621680297'
+last_update_time: 1737086308932
+lifecycle_stage: active
+name: naive_bayes_exp

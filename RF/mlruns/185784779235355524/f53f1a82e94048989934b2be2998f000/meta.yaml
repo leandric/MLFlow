@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/f53f1a82e94048989934b2be2998f000/artifacts
+end_time: 1737142753470
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: f53f1a82e94048989934b2be2998f000
+run_name: sedate-ape-939
+run_uuid: f53f1a82e94048989934b2be2998f000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142751702
+status: 3
+tags: []
+user_id: leandric

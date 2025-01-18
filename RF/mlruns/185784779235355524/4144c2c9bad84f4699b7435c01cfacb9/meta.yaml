@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/4144c2c9bad84f4699b7435c01cfacb9/artifacts
+end_time: 1737142362621
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 4144c2c9bad84f4699b7435c01cfacb9
+run_name: bedecked-tern-804
+run_uuid: 4144c2c9bad84f4699b7435c01cfacb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142360823
+status: 3
+tags: []
+user_id: leandric

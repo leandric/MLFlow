@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/0c772105af2e43eaa28748caff554d53/artifacts
+end_time: 1737142758995
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 0c772105af2e43eaa28748caff554d53
+run_name: beautiful-jay-419
+run_uuid: 0c772105af2e43eaa28748caff554d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142757156
+status: 3
+tags: []
+user_id: leandric

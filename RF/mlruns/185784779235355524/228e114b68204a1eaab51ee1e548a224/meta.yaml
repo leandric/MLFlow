@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/228e114b68204a1eaab51ee1e548a224/artifacts
+end_time: 1737142757154
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 228e114b68204a1eaab51ee1e548a224
+run_name: upset-yak-265
+run_uuid: 228e114b68204a1eaab51ee1e548a224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142755319
+status: 3
+tags: []
+user_id: leandric

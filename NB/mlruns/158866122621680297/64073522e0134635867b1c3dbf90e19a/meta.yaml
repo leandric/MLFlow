@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/mlruns/158866122621680297/64073522e0134635867b1c3dbf90e19a/artifacts
+deleted_time: 1737124848562
+end_time: 1737086399447
+entry_point_name: ''
+experiment_id: '158866122621680297'
+lifecycle_stage: deleted
+run_id: 64073522e0134635867b1c3dbf90e19a
+run_name: efficient-wasp-50
+run_uuid: 64073522e0134635867b1c3dbf90e19a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737086399407
+status: 4
+tags: []
+user_id: leandric

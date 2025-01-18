@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/6235e095452d4b83a367ca8d5846a35e/artifacts
+end_time: 1737142353413
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 6235e095452d4b83a367ca8d5846a35e
+run_name: clean-goat-733
+run_uuid: 6235e095452d4b83a367ca8d5846a35e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142351437
+status: 3
+tags: []
+user_id: leandric

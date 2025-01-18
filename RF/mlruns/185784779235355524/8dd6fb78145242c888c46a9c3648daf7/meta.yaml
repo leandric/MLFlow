@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/8dd6fb78145242c888c46a9c3648daf7/artifacts
+end_time: 1737142351434
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 8dd6fb78145242c888c46a9c3648daf7
+run_name: dashing-fox-688
+run_uuid: 8dd6fb78145242c888c46a9c3648daf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142349634
+status: 3
+tags: []
+user_id: leandric

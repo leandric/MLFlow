@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/01a2fba8408d40a0a656fd18f0b6d988/artifacts
+end_time: 1737142762631
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 01a2fba8408d40a0a656fd18f0b6d988
+run_name: valuable-bug-778
+run_uuid: 01a2fba8408d40a0a656fd18f0b6d988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142760823
+status: 3
+tags: []
+user_id: leandric

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/24df7e7e34c4476781a35b6398e9aa19/artifacts
+end_time: 1737142360821
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 24df7e7e34c4476781a35b6398e9aa19
+run_name: judicious-midge-892
+run_uuid: 24df7e7e34c4476781a35b6398e9aa19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142359059
+status: 3
+tags: []
+user_id: leandric

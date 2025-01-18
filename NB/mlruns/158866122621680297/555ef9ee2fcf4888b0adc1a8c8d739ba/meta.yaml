@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/mlruns/158866122621680297/555ef9ee2fcf4888b0adc1a8c8d739ba/artifacts
+end_time: 1737124857149
+entry_point_name: ''
+experiment_id: '158866122621680297'
+lifecycle_stage: active
+run_id: 555ef9ee2fcf4888b0adc1a8c8d739ba
+run_name: vaunted-whale-272
+run_uuid: 555ef9ee2fcf4888b0adc1a8c8d739ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737124854968
+status: 3
+tags: []
+user_id: leandric

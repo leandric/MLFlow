@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/6f50baa384cd4768af402f26dfd5773d/artifacts
+end_time: 1737142760821
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: 6f50baa384cd4768af402f26dfd5773d
+run_name: burly-dolphin-908
+run_uuid: 6f50baa384cd4768af402f26dfd5773d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142758998
+status: 3
+tags: []
+user_id: leandric

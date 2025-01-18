@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leandric/Documents/Git/MLFlow/RF/mlruns/185784779235355524/ebdf02e7a993485c94b2cd0df851928b/artifacts
+end_time: 1737142755317
+entry_point_name: ''
+experiment_id: '185784779235355524'
+lifecycle_stage: active
+run_id: ebdf02e7a993485c94b2cd0df851928b
+run_name: fearless-mole-728
+run_uuid: ebdf02e7a993485c94b2cd0df851928b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737142753473
+status: 3
+tags: []
+user_id: leandric
